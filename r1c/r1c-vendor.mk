@@ -213,6 +213,7 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/r1c/proprietary/vendor/lib/libchromatix_s5k3m2_14045_video_hd.so:system/vendor/lib/libchromatix_s5k3m2_14045_video_hd.so \
     vendor/oppo/r1c/proprietary/vendor/lib/libchromatix_s5k3m2_14045_zsl.so:system/vendor/lib/libchromatix_s5k3m2_14045_zsl.so \
     vendor/oppo/r1c/proprietary/vendor/lib/libmmcamera_faceproc.so:system/vendor/lib/libmmcamera_faceproc.so \
+    vendor/oppo/r1c/proprietary/vendor/lib/libseemore.so:system/vendor/lib/libseemore.so \
     vendor/oppo/r1c/proprietary/vendor/lib/libmmcamera_imx214_14045.so:system/vendor/lib/libmmcamera_imx214_14045.so \
     vendor/oppo/r1c/proprietary/vendor/lib/libmmcamera_ov5648_14045.so:system/vendor/lib/libmmcamera_ov5648_14045.so \
     vendor/oppo/r1c/proprietary/vendor/lib/libmmcamera_s5k3m2_14045.so:system/vendor/lib/libmmcamera_s5k3m2_14045.so
